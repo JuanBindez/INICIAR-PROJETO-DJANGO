@@ -12,7 +12,7 @@
 
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() 💻 OS
 
-[![]()]()
+[![](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
 
 [![]()]()
 
