@@ -12,4 +12,8 @@
 
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() 💻 OS
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]()
+[![]()]()
+
+[![]()]()
+
+[![]()]()
