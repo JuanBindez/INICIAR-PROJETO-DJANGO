@@ -1,6 +1,6 @@
 ### instalar Django
 
-python -m pip install Django
+python3 -m pip install Django
 
 
 ### para criar um projeto novo no django:
