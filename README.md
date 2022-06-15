@@ -1,3 +1,8 @@
+### instalar Django
+
+python -m pip install Django
+
+
 ### para criar um projeto novo no django:
 
 ~$ django-admin startproject "nome do projeto aqui"
