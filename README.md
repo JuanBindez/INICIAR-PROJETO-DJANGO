@@ -1,5 +1,9 @@
 ### instalar Django
 
+pip install django
+
+### ou
+
 python3 -m pip install Django
 
 
